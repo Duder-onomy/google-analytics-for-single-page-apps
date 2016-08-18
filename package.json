@@ -1,0 +1,19 @@
+{
+  "name": "google-analytics-for-single-page-apps",
+  "version": "1.0.0",
+  "description": "DO NOT USE THIS YET!!!!!. Still working on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duder-onomy/google-analytics-for-single-page-apps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Duder-onomy/google-analytics-for-single-page-apps/issues"
+  },
+  "homepage": "https://github.com/Duder-onomy/google-analytics-for-single-page-apps#readme"
+}
